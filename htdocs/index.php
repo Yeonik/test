@@ -2,5 +2,5 @@
 	echo "Hello";
 	echo "Hello";
 	echo "Hello";
-	echo "Hello Master";
+	echo "Hello Master2";
  ?>
